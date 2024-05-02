@@ -260,6 +260,7 @@ button {
   padding: 100px 0;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
 }
 
@@ -479,7 +480,7 @@ button {
 
 .team-card p{
   padding: 0 2.4rem;
-
+  text-align: center;
   color: gray;
 }
 
